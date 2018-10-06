@@ -1,0 +1,285 @@
+Value of N is  2
+**************** N START ******************
+ 
+Value of M is  128
++++++++++++++++++++ M START +++++++++++++++++++
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32084] dispatching hogs: 2 matrix
+stress-ng: info:  [32084] successful run completed in 10.00s
+stress-ng: info:  [32084] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32084]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32084] matrix             3830     10.00     19.98      0.00       383.00       191.69
+stress-ng: info:  [32084] matrix:
+stress-ng: info:  [32084]             74,419,049,636 CPU Cycles                     7.44 B/sec
+stress-ng: info:  [32084]             64,898,706,822 Instructions                   6.49 B/sec (0.872 instr. per cycle)
+stress-ng: info:  [32084]                  1,615,146 Cache References               0.16 M/sec
+stress-ng: info:  [32084]                     17,848 Cache Misses                   1.78 K/sec ( 1.11%)
+stress-ng: info:  [32084]             50,896,324,886 Stalled Cycles Frontend        5.09 B/sec
+stress-ng: info:  [32084]              8,160,651,448 Branch Instructions            0.82 B/sec
+stress-ng: info:  [32084]                 63,319,076 Branch Misses                  6.33 M/sec ( 0.78%)
+stress-ng: info:  [32084]              1,987,732,326 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32084]                        102 Page Faults Minor             10.20 /sec 
+stress-ng: info:  [32084]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32084]                      1,692 Context Switches             169.19 /sec 
+stress-ng: info:  [32084]                          8 CPU Migrations                 0.80 /sec 
+stress-ng: info:  [32084]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32106] dispatching hogs: 2 matrix
+stress-ng: info:  [32106] successful run completed in 10.00s
+stress-ng: info:  [32106] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32106]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32106] matrix             3845     10.00     19.98      0.00       384.50       192.44
+stress-ng: info:  [32106] matrix:
+stress-ng: info:  [32106]             74,741,077,184 CPU Cycles                     7.47 B/sec
+stress-ng: info:  [32106]             65,171,156,606 Instructions                   6.52 B/sec (0.872 instr. per cycle)
+stress-ng: info:  [32106]                  1,588,480 Cache References               0.16 M/sec
+stress-ng: info:  [32106]                     16,738 Cache Misses                   1.67 K/sec ( 1.05%)
+stress-ng: info:  [32106]             51,104,992,560 Stalled Cycles Frontend        5.11 B/sec
+stress-ng: info:  [32106]              8,194,136,488 Branch Instructions            0.82 B/sec
+stress-ng: info:  [32106]                 63,574,712 Branch Misses                  6.36 M/sec ( 0.78%)
+stress-ng: info:  [32106]              1,988,023,432 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32106]                        102 Page Faults Minor             10.20 /sec 
+stress-ng: info:  [32106]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32106]                      1,686 Context Switches             168.59 /sec 
+stress-ng: info:  [32106]                          2 CPU Migrations                 0.20 /sec 
+stress-ng: info:  [32106]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32128] dispatching hogs: 2 matrix
+stress-ng: info:  [32128] successful run completed in 10.00s
+stress-ng: info:  [32128] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32128]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32128] matrix             3863     10.00     19.98      0.00       386.30       193.34
+stress-ng: info:  [32128] matrix:
+stress-ng: info:  [32128]             75,094,160,412 CPU Cycles                     7.51 B/sec
+stress-ng: info:  [32128]             65,473,730,574 Instructions                   6.55 B/sec (0.872 instr. per cycle)
+stress-ng: info:  [32128]                  1,514,744 Cache References               0.15 M/sec
+stress-ng: info:  [32128]                     18,648 Cache Misses                   1.86 K/sec ( 1.23%)
+stress-ng: info:  [32128]             51,312,095,474 Stalled Cycles Frontend        5.13 B/sec
+stress-ng: info:  [32128]              8,229,036,826 Branch Instructions            0.82 B/sec
+stress-ng: info:  [32128]                 63,864,142 Branch Misses                  6.39 M/sec ( 0.78%)
+stress-ng: info:  [32128]              1,986,161,576 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32128]                        102 Page Faults Minor             10.20 /sec 
+stress-ng: info:  [32128]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32128]                      1,684 Context Switches             168.39 /sec 
+stress-ng: info:  [32128]                          4 CPU Migrations                 0.40 /sec 
+stress-ng: info:  [32128]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32150] dispatching hogs: 2 matrix
+stress-ng: info:  [32150] successful run completed in 10.00s
+stress-ng: info:  [32150] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32150]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32150] matrix             3862     10.00     19.98      0.00       386.20       193.29
+stress-ng: info:  [32150] matrix:
+stress-ng: info:  [32150]             75,122,661,606 CPU Cycles                     7.51 B/sec
+stress-ng: info:  [32150]             65,394,339,008 Instructions                   6.54 B/sec (0.871 instr. per cycle)
+stress-ng: info:  [32150]                  3,142,924 Cache References               0.31 M/sec
+stress-ng: info:  [32150]                     17,318 Cache Misses                   1.73 K/sec ( 0.55%)
+stress-ng: info:  [32150]             51,362,593,084 Stalled Cycles Frontend        5.14 B/sec
+stress-ng: info:  [32150]              8,220,668,300 Branch Instructions            0.82 B/sec
+stress-ng: info:  [32150]                 63,898,536 Branch Misses                  6.39 M/sec ( 0.78%)
+stress-ng: info:  [32150]              1,988,771,856 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32150]                        102 Page Faults Minor             10.20 /sec 
+stress-ng: info:  [32150]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32150]                      1,686 Context Switches             168.59 /sec 
+stress-ng: info:  [32150]                          0 CPU Migrations                 0.00 /sec 
+stress-ng: info:  [32150]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32172] dispatching hogs: 2 matrix
+stress-ng: info:  [32172] successful run completed in 10.00s
+stress-ng: info:  [32172] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32172]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32172] matrix             3840     10.00     19.98      0.00       384.00       192.19
+stress-ng: info:  [32172] matrix:
+stress-ng: info:  [32172]             74,601,864,032 CPU Cycles                     7.46 B/sec
+stress-ng: info:  [32172]             65,051,972,722 Instructions                   6.50 B/sec (0.872 instr. per cycle)
+stress-ng: info:  [32172]                  1,609,476 Cache References               0.16 M/sec
+stress-ng: info:  [32172]                     14,254 Cache Misses                   1.43 K/sec ( 0.89%)
+stress-ng: info:  [32172]             51,026,740,280 Stalled Cycles Frontend        5.10 B/sec
+stress-ng: info:  [32172]              8,184,544,756 Branch Instructions            0.82 B/sec
+stress-ng: info:  [32172]                 63,506,848 Branch Misses                  6.35 M/sec ( 0.78%)
+stress-ng: info:  [32172]              1,987,508,570 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32172]                        100 Page Faults Minor             10.00 /sec 
+stress-ng: info:  [32172]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32172]                      1,686 Context Switches             168.59 /sec 
+stress-ng: info:  [32172]                          2 CPU Migrations                 0.20 /sec 
+stress-ng: info:  [32172]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
++++++++++++++++++++ M END +++++++++++++++++++
+ 
+ 
+Value of M is  256
++++++++++++++++++++ M START +++++++++++++++++++
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32209] dispatching hogs: 2 matrix
+stress-ng: info:  [32209] successful run completed in 10.00s
+stress-ng: info:  [32209] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32209]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32209] matrix              453     10.00     19.98      0.00        45.30        22.67
+stress-ng: info:  [32209] matrix:
+stress-ng: info:  [32209]             74,306,268,946 CPU Cycles                     7.43 B/sec
+stress-ng: info:  [32209]             60,869,050,382 Instructions                   6.09 B/sec (0.819 instr. per cycle)
+stress-ng: info:  [32209]              5,009,133,632 Cache References               0.50 B/sec
+stress-ng: info:  [32209]                    138,094 Cache Misses                  13.81 K/sec ( 0.00%)
+stress-ng: info:  [32209]             51,831,061,614 Stalled Cycles Frontend        5.18 B/sec
+stress-ng: info:  [32209]              7,630,193,636 Branch Instructions            0.76 B/sec
+stress-ng: info:  [32209]                 29,740,756 Branch Misses                  2.97 M/sec ( 0.39%)
+stress-ng: info:  [32209]              1,988,647,242 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32209]                        388 Page Faults Minor             38.80 /sec 
+stress-ng: info:  [32209]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32209]                      1,686 Context Switches             168.59 /sec 
+stress-ng: info:  [32209]                          0 CPU Migrations                 0.00 /sec 
+stress-ng: info:  [32209]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32231] dispatching hogs: 2 matrix
+stress-ng: info:  [32231] successful run completed in 10.00s
+stress-ng: info:  [32231] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32231]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32231] matrix              454     10.00     19.98      0.00        45.40        22.72
+stress-ng: info:  [32231] matrix:
+stress-ng: info:  [32231]             74,475,601,852 CPU Cycles                     7.45 B/sec
+stress-ng: info:  [32231]             61,254,501,384 Instructions                   6.13 B/sec (0.822 instr. per cycle)
+stress-ng: info:  [32231]              5,374,525,542 Cache References               0.54 B/sec
+stress-ng: info:  [32231]                    148,950 Cache Misses                  14.89 K/sec ( 0.00%)
+stress-ng: info:  [32231]             51,888,375,218 Stalled Cycles Frontend        5.19 B/sec
+stress-ng: info:  [32231]              7,681,946,178 Branch Instructions            0.77 B/sec
+stress-ng: info:  [32231]                 29,927,488 Branch Misses                  2.99 M/sec ( 0.39%)
+stress-ng: info:  [32231]              1,987,657,674 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32231]                        390 Page Faults Minor             39.00 /sec 
+stress-ng: info:  [32231]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32231]                      1,690 Context Switches             168.99 /sec 
+stress-ng: info:  [32231]                          2 CPU Migrations                 0.20 /sec 
+stress-ng: info:  [32231]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32256] dispatching hogs: 2 matrix
+stress-ng: info:  [32256] successful run completed in 10.00s
+stress-ng: info:  [32256] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32256]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32256] matrix              458     10.00     19.98      0.00        45.80        22.92
+stress-ng: info:  [32256] matrix:
+stress-ng: info:  [32256]             74,908,582,820 CPU Cycles                     7.49 B/sec
+stress-ng: info:  [32256]             61,713,071,826 Instructions                   6.17 B/sec (0.824 instr. per cycle)
+stress-ng: info:  [32256]              2,655,656,920 Cache References               0.27 B/sec
+stress-ng: info:  [32256]                     45,238 Cache Misses                   4.52 K/sec ( 0.00%)
+stress-ng: info:  [32256]             52,090,120,718 Stalled Cycles Frontend        5.21 B/sec
+stress-ng: info:  [32256]              7,735,108,336 Branch Instructions            0.77 B/sec
+stress-ng: info:  [32256]                 30,162,228 Branch Misses                  3.02 M/sec ( 0.39%)
+stress-ng: info:  [32256]              1,988,632,710 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32256]                        390 Page Faults Minor             39.00 /sec 
+stress-ng: info:  [32256]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32256]                      1,688 Context Switches             168.79 /sec 
+stress-ng: info:  [32256]                          0 CPU Migrations                 0.00 /sec 
+stress-ng: info:  [32256]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32278] dispatching hogs: 2 matrix
+stress-ng: info:  [32278] successful run completed in 10.00s
+stress-ng: info:  [32278] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32278]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32278] matrix              453     10.00     19.98      0.00        45.30        22.67
+stress-ng: info:  [32278] matrix:
+stress-ng: info:  [32278]             74,591,568,242 CPU Cycles                     7.46 B/sec
+stress-ng: info:  [32278]             61,248,785,540 Instructions                   6.12 B/sec (0.821 instr. per cycle)
+stress-ng: info:  [32278]              4,622,946,944 Cache References               0.46 B/sec
+stress-ng: info:  [32278]                    162,436 Cache Misses                  16.24 K/sec ( 0.00%)
+stress-ng: info:  [32278]             52,015,782,050 Stalled Cycles Frontend        5.20 B/sec
+stress-ng: info:  [32278]              7,683,400,580 Branch Instructions            0.77 B/sec
+stress-ng: info:  [32278]                 29,985,180 Branch Misses                  3.00 M/sec ( 0.39%)
+stress-ng: info:  [32278]              1,986,781,292 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32278]                        388 Page Faults Minor             38.80 /sec 
+stress-ng: info:  [32278]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32278]                      1,688 Context Switches             168.79 /sec 
+stress-ng: info:  [32278]                          2 CPU Migrations                 0.20 /sec 
+stress-ng: info:  [32278]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32301] dispatching hogs: 2 matrix
+stress-ng: info:  [32301] successful run completed in 10.00s
+stress-ng: info:  [32301] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [32301]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [32301] matrix              454     10.00     19.98      0.00        45.40        22.72
+stress-ng: info:  [32301] matrix:
+stress-ng: info:  [32301]             74,403,408,330 CPU Cycles                     7.44 B/sec
+stress-ng: info:  [32301]             61,223,031,372 Instructions                   6.12 B/sec (0.823 instr. per cycle)
+stress-ng: info:  [32301]              5,591,406,332 Cache References               0.56 B/sec
+stress-ng: info:  [32301]                    151,612 Cache Misses                  15.16 K/sec ( 0.00%)
+stress-ng: info:  [32301]             51,844,378,566 Stalled Cycles Frontend        5.18 B/sec
+stress-ng: info:  [32301]              7,677,395,498 Branch Instructions            0.77 B/sec
+stress-ng: info:  [32301]                 29,943,644 Branch Misses                  2.99 M/sec ( 0.39%)
+stress-ng: info:  [32301]              1,985,384,872 Bus Cycles                     0.20 B/sec
+stress-ng: info:  [32301]                        390 Page Faults Minor             39.00 /sec 
+stress-ng: info:  [32301]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [32301]                      1,688 Context Switches             168.79 /sec 
+stress-ng: info:  [32301]                          0 CPU Migrations                 0.00 /sec 
+stress-ng: info:  [32301]                          0 Alignment Faults               0.00 /sec 
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
++++++++++++++++++++ M END +++++++++++++++++++
+ 
+ 
+Value of M is  512
++++++++++++++++++++ M START +++++++++++++++++++
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [32340] dispatching hogs: 2 matrix
