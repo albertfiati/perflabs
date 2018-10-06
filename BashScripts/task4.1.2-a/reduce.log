@@ -1,0 +1,88 @@
+Value of N is  1
+Test run  1
+Average:        all     12.76      0.00      0.06      0.21      0.00     86.96
+Test run  2
+Average:        all     12.78      0.00      0.06      0.15      0.00     87.01
+Test run  3
+Average:        all     12.76      0.00      0.06      0.35      0.00     86.83
+Test run  4
+Average:        all     15.19      0.00      0.30      0.26      0.00     84.25
+Test run  5
+Average:        all     19.47      0.00      0.40      0.18      0.00     79.95
+Value of N is  2
+Test run  1
+Average:        all     28.60      0.00      0.23      0.19      0.00     70.99
+Test run  2
+Average:        all     25.16      0.00      0.06      0.31      0.00     74.46
+Test run  3
+Average:        all     25.58      0.00      0.08      0.19      0.00     74.16
+Test run  4
+Average:        all     25.14      0.00      0.08      0.18      0.00     74.61
+Test run  5
+Average:        all     25.61      0.00      0.06      0.19      0.00     74.14
+Value of N is  3
+Test run  1
+Average:        all     37.77      0.00      0.05      0.13      0.00     62.05
+Test run  2
+Average:        all     37.89      0.00      0.19      0.16      0.00     61.76
+Test run  3
+Average:        all     37.67      0.00      0.09      0.26      0.00     61.98
+Test run  4
+Average:        all     37.99      0.00      0.10      0.14      0.00     61.77
+Test run  5
+Average:        all     37.59      0.00      0.11      0.16      0.00     62.14
+Value of N is  4
+Test run  1
+Average:        all     50.21      0.00      0.09      0.26      0.00     49.44
+Test run  2
+Average:        all     50.17      0.00      0.07      0.14      0.00     49.62
+Test run  3
+Average:        all     50.19      0.00      0.10      0.14      0.00     49.57
+Test run  4
+Average:        all     50.56      0.00      0.08      0.13      0.00     49.24
+Test run  5
+Average:        all     50.28      0.00      0.05      0.13      0.00     49.54
+Value of N is  5
+Test run  1
+Average:        all     62.73      0.00      0.04      0.08      0.00     37.16
+Test run  2
+Average:        all     62.69      0.00      0.09      0.10      0.00     37.12
+Test run  3
+Average:        all     62.63      0.00      0.06      0.06      0.00     37.24
+Test run  4
+Average:        all     62.66      0.00      0.09      0.14      0.00     37.12
+Test run  5
+Average:        all     62.70      0.00      0.09      0.15      0.00     37.06
+Value of N is  6
+Test run  1
+Average:        all     75.21      0.00      0.10      0.05      0.00     24.64
+Test run  2
+Average:        all     75.07      0.00      0.08      0.06      0.00     24.79
+Test run  3
+Average:        all     75.19      0.00      0.06      0.08      0.00     24.67
+Test run  4
+Average:        all     75.80      6.69      0.26      0.10      0.00     17.15
+Test run  5
+Average:        all     80.46      0.00      1.54      2.63      0.00     15.37
+Value of N is  7
+Test run  1
+Average:        all     88.14      0.00      0.33      0.15      0.00     11.38
+Test run  2
+Average:        all     89.10      0.00      0.21      0.19      0.00     10.50
+Test run  3
+Average:        all     88.96      0.00      0.21      0.12      0.00     10.71
+Test run  4
+Average:        all     88.28      0.00      0.13      0.06      0.00     11.53
+Test run  5
+Average:        all     88.04      0.00      0.29      0.26      0.00     11.41
+Value of N is  8
+Test run  1
+Average:        all     99.86      0.00      0.09      0.00      0.00      0.05
+Test run  2
+Average:        all     99.85      0.00      0.09      0.00      0.00      0.06
+Test run  3
+Average:        all     99.87      0.00      0.10      0.00      0.00      0.03
+Test run  4
+Average:        all     99.92      0.00      0.06      0.00      0.00      0.01
+Test run  5
+Average:        all     99.86      0.00      0.11      0.00      0.00      0.03

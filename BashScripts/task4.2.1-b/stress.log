@@ -658,28 +658,3 @@ Test run  5
 <<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
  
 stress-ng: info:  [7420] dispatching hogs: 16 pthread
-stress-ng: info:  [7420] successful run completed in 21.52s
-stress-ng: info:  [7420] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
-stress-ng: info:  [7420]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
-stress-ng: info:  [7420] pthread         1000000     19.81      3.41     89.97     50476.41     10708.93
-stress-ng: info:  [7420] pthread:
-stress-ng: info:  [7420]            202,438,843,520 CPU Cycles                     9.41 B/sec
-stress-ng: info:  [7420]             88,785,103,680 Instructions                   4.13 B/sec (0.439 instr. per cycle)
-stress-ng: info:  [7420]              1,780,886,960 Cache References              82.74 M/sec
-stress-ng: info:  [7420]                584,195,120 Cache Misses                  27.14 M/sec (32.80%)
-stress-ng: info:  [7420]            163,999,898,400 Stalled Cycles Frontend        7.62 B/sec
-stress-ng: info:  [7420]             18,070,577,984 Branch Instructions            0.84 B/sec
-stress-ng: info:  [7420]                184,343,056 Branch Misses                  8.56 M/sec ( 1.02%)
-stress-ng: info:  [7420]              5,845,184,928 Bus Cycles                     0.27 B/sec
-stress-ng: info:  [7420]                  1,875,600 Page Faults Minor             87.14 K/sec
-stress-ng: info:  [7420]                          0 Page Faults Major              0.00 /sec 
-stress-ng: info:  [7420]                  1,390,960 Context Switches              64.63 K/sec
-stress-ng: info:  [7420]                  1,361,024 CPU Migrations                63.24 K/sec
-stress-ng: info:  [7420]                          0 Alignment Faults               0.00 /sec 
- 
->>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
- 
- 
-***************** N END *****************
- 
- 

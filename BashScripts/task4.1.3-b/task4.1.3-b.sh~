@@ -15,10 +15,10 @@ do
 		echo "<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<" | tee -a stress.log #sar.log
 		echo " " | tee -a stress.log #sar.log
 	
-		stress-ng --pthread $n -pthread-ops 1000000 --pthread-max 64 --metrics-brief --perf | tee -a stress.log &
+		stress-ng --pthread $n --pthread-ops 1000000 --pthread-max 64 --metrics-brief --perf -t 25s | tee -a stress.log &
 		#sar -r 2 5 | tee -a sar.log &
 
-		sleep 15
+		sleep 25
 		echo " " | tee -a stress.log #sar.log
 		echo ">>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>" | tee -a stress.log #sar.log
 		echo " " | tee -a stress.log #sar.log
