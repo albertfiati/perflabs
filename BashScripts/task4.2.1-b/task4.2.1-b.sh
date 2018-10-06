@@ -2,7 +2,7 @@
 
 rm *.log
 
-for n in 2;
+for n in 4000 8000 16000 32000 64000 128000 256000 512000 1024000;
 do
 	echo "Value of N is " $n | tee -a stress.log sar.log top.log
 	echo "**************** N START ******************" | tee -a stress.log sar.log top.log
@@ -15,7 +15,7 @@ do
 		echo "<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<" | tee -a stress.log sar.log top.log
 		echo " " | tee -a  stress.log sar.log top.log
 	
-		stress-ng --bigheap $n --metrics-brief --perf -t 60s | tee -a stress.log &
+		stress-ng --bigheap 2 --bigheap-growth $n --metrics-brief --perf -t 60s | tee -a stress.log &
 		sar -r 2 30 | tee -a sar.log &
 		top -H -d 2 -n 30 | tee -a top.log &
 
