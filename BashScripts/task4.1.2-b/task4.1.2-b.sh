@@ -15,8 +15,8 @@ do
 		echo "<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<" | tee -a stress.log sar.log
 		echo " " | tee -a stress.log sar.log
 		
-		stress-ng --crypt $i --crypt-ops 8000 --metrics-brief --perf -t 10s | tee -a stress.log &
-		sar -P ALL 2 5 | tee -a sar.log &
+		stress-ng -v --crypt $i --crypt-ops 8000 --metrics-brief --perf -t 10s | tee -a stress.log &
+		sar -P ALL 1 10 | tee -a sar.log &
 
 		sleep 15
 		echo " " | tee -a stress.log sar.log

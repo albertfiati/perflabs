@@ -1,0 +1,12 @@
+Value of S is  1
+++++++++++++++++++ S START ++++++++++++++++++
+ 
+Value of N is  25
+**************** N START ******************
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [14124] dispatching hogs: 8 cpu
+stress-ng: info:  [14124] successful run completed in 6.95s

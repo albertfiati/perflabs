@@ -15,9 +15,9 @@ do
 		echo "<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<" | tee -a stress.log sar.log top.log
 		echo " " | tee -a  stress.log sar.log top.log
 	
-		stress-ng --bigheap 2 --bigheap-growth $n --metrics-brief --perf -t 60s | tee -a stress.log &
-		sar -r 2 30 | tee -a sar.log &
-		top -H -d 2 -n 30 | tee -a top.log &
+		stress-ng -v --bigheap 2 --bigheap-growth $n --metrics-brief --perf -t 60s | tee -a stress.log &
+		sar -r 1 60 | tee -a sar.log &
+		top -H -d 1 -n 60 | tee -a top.log &
 
 		sleep 65
 		echo " " | tee -a  stress.log sar.log top.log

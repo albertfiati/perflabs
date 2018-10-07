@@ -1,0 +1,19 @@
+stress-ng: info:  [17594] dispatching hogs: 6 crypt
+stress-ng: info:  [17594] successful run completed in 10.03s
+stress-ng: info:  [17594] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [17594]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [17594] crypt              2736     10.02     59.99      0.00       273.19        45.61
+stress-ng: info:  [17594] crypt:
+stress-ng: info:  [17594]            209,049,669,330 CPU Cycles                    20.85 B/sec
+stress-ng: info:  [17594]            311,777,322,726 Instructions                  31.10 B/sec (1.491 instr. per cycle)
+stress-ng: info:  [17594]                 12,077,424 Cache References               1.20 M/sec
+stress-ng: info:  [17594]                     72,048 Cache Misses                   7.19 K/sec ( 0.60%)
+stress-ng: info:  [17594]            122,752,567,854 Stalled Cycles Frontend       12.24 B/sec
+stress-ng: info:  [17594]              7,603,119,870 Branch Instructions            0.76 B/sec
+stress-ng: info:  [17594]                146,908,686 Branch Misses                 14.65 M/sec ( 1.93%)
+stress-ng: info:  [17594]              5,972,859,630 Bus Cycles                     0.60 B/sec
+stress-ng: info:  [17594]                        324 Page Faults Minor             32.32 /sec 
+stress-ng: info:  [17594]                          0 Page Faults Major              0.00 /sec 
+stress-ng: info:  [17594]                      5,562 Context Switches             554.74 /sec 
+stress-ng: info:  [17594]                          6 CPU Migrations                 0.60 /sec 
+stress-ng: info:  [17594]                          0 Alignment Faults               0.00 /sec 
