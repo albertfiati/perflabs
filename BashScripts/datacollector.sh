@@ -10,8 +10,8 @@ do
 	if [[ -d $d ]]; then
 		cd "$d"
 		echo "Executing >>" *.sh
+		./*.sh
 		cd ..
-		./*.sh > /dev/null 2>&1
 	fi
 done
 
