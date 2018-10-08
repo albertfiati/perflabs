@@ -1,0 +1,260 @@
+Value of N is  1000000
+**************** N START ******************
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [30908] dispatching hogs: 8 cpu
+stress-ng: info:  [30908] successful run completed in 60.05s (1 min, 0.05 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [30942] dispatching hogs: 8 cpu
+stress-ng: info:  [30942] successful run completed in 60.06s (1 min, 0.06 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [30972] dispatching hogs: 8 cpu
+stress-ng: info:  [30972] successful run completed in 60.08s (1 min, 0.08 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31005] dispatching hogs: 8 cpu
+stress-ng: info:  [31005] successful run completed in 60.06s (1 min, 0.06 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31035] dispatching hogs: 8 cpu
+stress-ng: info:  [31035] successful run completed in 60.06s (1 min, 0.06 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+***************** N END *****************
+ 
+ 
+Value of N is  2000000
+**************** N START ******************
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31084] dispatching hogs: 8 cpu
+stress-ng: info:  [31084] successful run completed in 60.08s (1 min, 0.08 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31114] dispatching hogs: 8 cpu
+stress-ng: info:  [31114] successful run completed in 60.04s (1 min, 0.04 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31148] dispatching hogs: 8 cpu
+stress-ng: info:  [31148] successful run completed in 60.03s (1 min, 0.03 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31181] dispatching hogs: 8 cpu
+stress-ng: info:  [31181] successful run completed in 60.07s (1 min, 0.07 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31211] dispatching hogs: 8 cpu
+stress-ng: info:  [31211] successful run completed in 60.07s (1 min, 0.07 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+***************** N END *****************
+ 
+ 
+Value of N is  3000000
+**************** N START ******************
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31260] dispatching hogs: 8 cpu
+stress-ng: info:  [31260] successful run completed in 60.03s (1 min, 0.03 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31290] dispatching hogs: 8 cpu
+stress-ng: info:  [31290] successful run completed in 60.03s (1 min, 0.03 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31324] dispatching hogs: 8 cpu
+stress-ng: info:  [31324] successful run completed in 60.06s (1 min, 0.06 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31354] dispatching hogs: 8 cpu
+stress-ng: info:  [31354] successful run completed in 60.03s (1 min, 0.03 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31387] dispatching hogs: 8 cpu
+stress-ng: info:  [31387] successful run completed in 60.03s (1 min, 0.03 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+***************** N END *****************
+ 
+ 
+Value of N is  4000000
+**************** N START ******************
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31432] dispatching hogs: 8 cpu
+stress-ng: info:  [31432] successful run completed in 60.09s (1 min, 0.09 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31465] dispatching hogs: 8 cpu
+stress-ng: info:  [31465] successful run completed in 60.09s (1 min, 0.09 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31496] dispatching hogs: 8 cpu
+stress-ng: info:  [31496] successful run completed in 60.06s (1 min, 0.06 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31530] dispatching hogs: 8 cpu
+stress-ng: info:  [31530] successful run completed in 60.05s (1 min, 0.05 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31563] dispatching hogs: 8 cpu
+stress-ng: info:  [31563] successful run completed in 60.10s (1 min, 0.10 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+***************** N END *****************
+ 
+ 
+Value of N is  5000000
+**************** N START ******************
+ 
+ 
+Test run  1
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31608] dispatching hogs: 8 cpu
+stress-ng: info:  [31608] successful run completed in 60.06s (1 min, 0.06 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  2
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31641] dispatching hogs: 8 cpu
+stress-ng: info:  [31641] successful run completed in 60.08s (1 min, 0.08 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  3
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31674] dispatching hogs: 8 cpu
+stress-ng: info:  [31674] successful run completed in 60.04s (1 min, 0.04 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  4
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31708] dispatching hogs: 8 cpu
+stress-ng: info:  [31708] successful run completed in 60.08s (1 min, 0.08 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+Test run  5
+<<<<<<<<<<<<<<<<<<< iteration start <<<<<<<<<<<<<<<<<<<<<<<
+ 
+stress-ng: info:  [31738] dispatching hogs: 8 cpu
+stress-ng: info:  [31738] successful run completed in 60.08s (1 min, 0.08 secs)
+ 
+>>>>>>>>>>>>>>>>>>> iteration end >>>>>>>>>>>>>>>>>>>>>
+ 
+ 
+***************** N END *****************
+ 
+ 
